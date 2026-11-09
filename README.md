@@ -22,7 +22,7 @@ I'm interested in **data analysis**, especially in finance and accounting: colle
 |---|---|---|
 | [**Pump-Oracle**](https://github.com/4Opm/Pump-Oracle) | Data pipeline that scans Solana DEX markets every 15 min, filters tokens by liquidity, volume and price metrics, stores history in SQLite and **backtests** filter performance. | Python, pandas, SQLite, pytest, CI |
 | [**Moneta**](https://github.com/4Opm/Moneta) | Personal finance web app: transactions, monthly budgets per category, spending charts and CSV export. | Python, Flask, SQLAlchemy, Chart.js |
-| [**GameProphet**](https://github.com/4Opm/GameProphet) | Simulation where 5 AI agents bet on football matches using real odds and league stats; tracks which strategy performs best over time. | Python, LLM API, REST APIs |
+| [**GameProphet**](https://github.com/4Opm/GameProphet) | Simulation where 10 AI agents bet on football matches using real odds and league stats; tracks which strategy performs best over time. | Python, LLM API, REST APIs |
 
 ---
 
