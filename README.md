@@ -12,6 +12,7 @@ I'm interested in **data analysis**, especially in finance and accounting: colle
 
 ### 🛠️ Tech Stack
 **Data & analysis:** Python (pandas) · SQL · R · SAS · Excel
+
 **Development & tools:** Flask · SQLite · Git · GitHub Actions · pytest
 
 ---
